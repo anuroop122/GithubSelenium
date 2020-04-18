@@ -15,6 +15,7 @@ public class App {
 		c.manage().window().maximize();
 		c.manage().deleteAllCookies();
 		c.get("https://www.google.com/");
+		String adress=c.getPagaTitle();
 		
 		
 		
