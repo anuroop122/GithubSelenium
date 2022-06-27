@@ -10,7 +10,7 @@ public class AppTest2 {
 		String s1="null";
 		s1=s1.concat(s);
 		System.out.println(s1);
-		System.out.println(s1.length());
+		
 		
 	
 	
