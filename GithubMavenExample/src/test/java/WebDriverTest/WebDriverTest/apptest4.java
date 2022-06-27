@@ -9,8 +9,7 @@ public class apptest4 {
 		System.out.println( "Hello World! feature hoarshinianuroop" );
 
 		System.out.println( "Hello World!" );
-	    System.out.println( "Hello World! feature");
-	    System.out.println( "Hello World! feature hoarshinianuroop" );
+	  
 
 	    
 	}
