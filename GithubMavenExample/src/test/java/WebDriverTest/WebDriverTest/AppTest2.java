@@ -17,6 +17,9 @@ public class AppTest2 {
 
 
 		System.out.println(s1);
+		 System.out.println( "Hello World! feature" );
+		 System.out.println( "hello honey" );
+
 
 
 	}
